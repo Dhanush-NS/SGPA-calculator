@@ -1,3 +1,4 @@
+## SGPA Calculator
 ## Link for SGPA calculator: https://dhanush-ns.github.io/SGPA-calculator/
 
 ## To view your SGPA result
