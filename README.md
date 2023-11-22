@@ -1,4 +1,13 @@
-# SGPA-calculator
+## Link for SGPA calculator: https://dhanush-ns.github.io/SGPA-calculator/
+
+## To view your SGPA result
+
+## Accessing Developer Mode
+
+To access the developer mode and view console messages:
+
+- Press `Ctrl + Shift + I` or `F12` to open the developer tools.
+- Click on the "Console" tab.
 
 # SGPA Calculator
 
@@ -27,13 +36,6 @@ Welcome to the SGPA (Semester Grade Point Average) Calculator! This web applicat
 
 4. **Responsive Design:**
    - The calculator is designed to work on various devices with ease.
-
-## Accessing Developer Mode
-
-To access the developer mode and view console messages:
-
-- Press `Ctrl + Shift + I` or `F12` to open the developer tools.
-- Click on the "Console" tab.
 
 ## Contributions
 
