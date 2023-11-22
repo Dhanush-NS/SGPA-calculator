@@ -1,11 +1,8 @@
-## SGPA Calculator
+# SGPA Calculator
+
 ## Link for SGPA calculator: https://dhanush-ns.github.io/SGPA-calculator/
 
 ## To view your SGPA result
-
-## Accessing Developer Mode
-
-To access the developer mode and view console messages:
 
 - Press `Ctrl + Shift + I` or `F12` to open the developer tools.
 - Click on the "Console" tab.
