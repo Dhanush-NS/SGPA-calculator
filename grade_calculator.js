@@ -1,5 +1,5 @@
 //Grade calculator of sgpa
-
+alert("To view your SGPA result, click 'CTRL + SHIFT + i', Then you can see your total marks and SGPA result");
 // prints ten times repeatadly using for loop
 let name1 = prompt("Enter your Name = ");
 let sem = prompt("Enter your current sem = ");
