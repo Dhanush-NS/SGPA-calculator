@@ -2,7 +2,7 @@
 alert("To view your SGPA result, click 'CTRL + SHIFT + i', Then you can see your total marks and SGPA result");
 // prints ten times repeatadly using for loop
 let name1 = prompt("Enter your Name = ");
-let sem = prompt("Enter your current sem = ");
+let sem = prompt("Enter the sem = ");
 console.log("Name = " + name1);
 console.log("Sem = " + sem);
 let total1 = 0,
